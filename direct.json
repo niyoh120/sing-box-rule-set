@@ -1,0 +1,34 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_regex": [
+                "^stun\\..+"
+            ],
+            "domain_suffix": [
+                ".dyndns.com",
+                ".fakeopen.com",
+                ".niyoh.top",
+                ".pttime.org",
+                ".grafana.net",
+                ".teracloud.jp",
+                ".515188.xyz",
+                ".devv.ai",
+                ".cloudfront.net",
+                ".wenku8.net"
+            ],
+            "domain": [
+                "dyndns.com",
+                "fakeopen.com",
+                "niyoh.top",
+                "pttime.org",
+                "grafana.net",
+                "teracloud.jp",
+                "515188.xyz",
+                "devv.ai",
+                "cloudfront.net",
+                "wenku8.net"
+            ]
+        }
+    ]
+}
