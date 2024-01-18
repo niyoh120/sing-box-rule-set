@@ -14,9 +14,7 @@
                 ".teracloud.jp",
                 ".515188.xyz",
                 ".devv.ai",
-                ".cloudfront.net",
-                ".wenku8.net",
-                ".wenku8.com"
+                ".cloudfront.net"
             ],
             "domain": [
                 "dyndns.com",
@@ -27,9 +25,7 @@
                 "teracloud.jp",
                 "515188.xyz",
                 "devv.ai",
-                "cloudfront.net",
-                "wenku8.net",
-                "wenku8.com"
+                "cloudfront.net"
             ]
         }
     ]
