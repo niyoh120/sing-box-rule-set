@@ -13,7 +13,6 @@
                 ".grafana.net",
                 ".teracloud.jp",
                 ".515188.xyz",
-                ".devv.ai",
                 ".cloudfront.net"
             ],
             "domain": [
@@ -24,7 +23,6 @@
                 "grafana.net",
                 "teracloud.jp",
                 "515188.xyz",
-                "devv.ai",
                 "cloudfront.net"
             ]
         }
