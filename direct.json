@@ -7,20 +7,16 @@
             ],
             "domain_suffix": [
                 ".dyndns.com",
-                ".fakeopen.com",
                 ".niyoh.top",
                 ".pttime.org",
-                ".grafana.net",
                 ".teracloud.jp",
                 ".515188.xyz",
                 ".cloudfront.net"
             ],
             "domain": [
                 "dyndns.com",
-                "fakeopen.com",
                 "niyoh.top",
                 "pttime.org",
-                "grafana.net",
                 "teracloud.jp",
                 "515188.xyz",
                 "cloudfront.net"
