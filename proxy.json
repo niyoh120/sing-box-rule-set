@@ -7,14 +7,18 @@
                 ".googleapis.com",
                 ".xn--ngstr-lra8j.com",
                 ".wenku8.net",
-                ".wenku8.com"
+                ".wenku8.com",
+                ".mongodb.net",
+                ".vercel.app"
             ],
             "domain": [
                 "googleapis.cn",
                 "googleapis.com",
                 "xn--ngstr-lra8j.com",
                 "wenku8.net",
-                "wenku8.com"
+                "wenku8.com",
+                "mongodb.net",
+                "vercel.app"
             ]
         }
     ]
