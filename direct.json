@@ -14,7 +14,10 @@
                 ".cloudfront.net",
                 ".b23.tv",
                 ".getquicker.net",
-                ".npmmirror.com "
+                ".npmmirror.com",
+                ".88zhibo.me",
+                ".sportsteam363.com",
+                ".ddkanqiu.net"
             ],
             "domain": [
                 "dyndns.com",
@@ -25,7 +28,10 @@
                 "cloudfront.net",
                 "b23.tv",
                 "getquicker.net",
-                "npmmirror.com "
+                "npmmirror.com",
+                "88zhibo.me",
+                "sportsteam363.com",
+                "ddkanqiu.net"
             ]
         }
     ]
