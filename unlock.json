@@ -5,12 +5,14 @@
             "domain_suffix": [
                 ".exhentai.org",
                 ".wenku8.net",
-                ".wenku8.com"
+                ".wenku8.com",
+                ".youtube.com"
             ],
             "domain": [
                 "exhentai.org",
                 "wenku8.net",
-                "wenku8.com"
+                "wenku8.com",
+                "youtube.com"
             ]
         }
     ]
