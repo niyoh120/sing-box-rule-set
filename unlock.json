@@ -6,13 +6,15 @@
                 ".exhentai.org",
                 ".wenku8.net",
                 ".wenku8.com",
-                ".youtube.com"
+                ".youtube.com",
+                ".reddit.com"
             ],
             "domain": [
                 "exhentai.org",
                 "wenku8.net",
                 "wenku8.com",
-                "youtube.com"
+                "youtube.com",
+                "reddit.com"
             ]
         }
     ]
