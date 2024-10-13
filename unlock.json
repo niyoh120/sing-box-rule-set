@@ -7,14 +7,16 @@
                 ".wenku8.net",
                 ".wenku8.com",
                 ".youtube.com",
-                ".reddit.com"
+                ".reddit.com",
+                ".huggingface.co"
             ],
             "domain": [
                 "exhentai.org",
                 "wenku8.net",
                 "wenku8.com",
                 "youtube.com",
-                "reddit.com"
+                "reddit.com",
+                "huggingface.co"
             ]
         }
     ]
