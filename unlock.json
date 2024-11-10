@@ -3,20 +3,14 @@
     "rules": [
         {
             "domain_suffix": [
-                ".exhentai.org",
                 ".wenku8.net",
                 ".wenku8.com",
-                ".youtube.com",
-                ".reddit.com",
-                ".huggingface.co"
+                ".reddit.com"
             ],
             "domain": [
-                "exhentai.org",
                 "wenku8.net",
                 "wenku8.com",
-                "youtube.com",
-                "reddit.com",
-                "huggingface.co"
+                "reddit.com"
             ]
         }
     ]

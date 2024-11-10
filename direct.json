@@ -6,6 +6,7 @@
                 "^stun\\..+"
             ],
             "domain_suffix": [
+                ".ghp.ci",
                 ".dyndns.com",
                 ".niyoh.top",
                 ".pttime.org",
@@ -20,7 +21,7 @@
                 ".ddkanqiu.net"
             ],
             "domain": [
-                "mirror.ghproxy.com",
+                "ghp.ci",
                 "dyndns.com",
                 "niyoh.top",
                 "pttime.org",
