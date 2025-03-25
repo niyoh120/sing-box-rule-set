@@ -3,14 +3,8 @@
     "rules": [
         {
             "domain_suffix": [
-                ".wenku8.net",
-                ".wenku8.com",
-                ".reddit.com"
             ],
             "domain": [
-                "wenku8.net",
-                "wenku8.com",
-                "reddit.com"
             ]
         }
     ]
