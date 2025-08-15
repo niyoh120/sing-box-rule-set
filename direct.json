@@ -6,6 +6,7 @@
                 "^stun\\..+"
             ],
             "domain_suffix": [
+                ".niyoh.top",
                 ".ghp.ci",
                 ".dyndns.com",
                 ".niyoh.top",
@@ -18,9 +19,12 @@
                 ".npmmirror.com",
                 ".88zhibo.me",
                 ".sportsteam363.com",
-                ".ddkanqiu.net"
+                ".ddkanqiu.net",
+                ".linux.do",
+                ".hf-mirror.com"
             ],
             "domain": [
+                "niyoh.top",
                 "ghp.ci",
                 "dyndns.com",
                 "niyoh.top",
@@ -33,7 +37,8 @@
                 "npmmirror.com",
                 "88zhibo.me",
                 "sportsteam363.com",
-                "ddkanqiu.net"
+                "ddkanqiu.net",
+                "linux.do"
             ]
         }
     ]
