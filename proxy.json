@@ -3,24 +3,12 @@
     "rules": [
         {
             "domain_suffix": [
-                ".googleapis.cn",
-                ".googleapis.com",
-                ".xn--ngstr-lra8j.com",
                 ".wenku8.net",
-                ".wenku8.com",
-                ".mongodb.net",
-                ".vercel.app",
-                ".notion.so"
+                ".wenku8.com"
             ],
             "domain": [
-                "googleapis.cn",
-                "googleapis.com",
-                "xn--ngstr-lra8j.com",
                 "wenku8.net",
-                "wenku8.com",
-                "mongodb.net",
-                "vercel.app",
-                "notion.so"
+                "wenku8.com"
             ]
         }
     ]
