@@ -4,11 +4,13 @@
         {
             "domain_suffix": [
                 ".wenku8.net",
-                ".wenku8.com"
+                ".wenku8.com",
+                ".linux.do"
             ],
             "domain": [
                 "wenku8.net",
-                "wenku8.com"
+                "wenku8.com",
+                "linux.do"
             ]
         }
     ]
