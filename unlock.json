@@ -3,8 +3,10 @@
     "rules": [
         {
             "domain_suffix": [
+                ".open-vsx.org"
             ],
             "domain": [
+                "open-vsx.org"
             ]
         }
     ]
