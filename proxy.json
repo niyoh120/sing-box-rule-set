@@ -5,12 +5,14 @@
             "domain_suffix": [
                 ".wenku8.net",
                 ".wenku8.com",
-                ".linux.do"
+                ".linux.do",
+                ".anyrouter.top"
             ],
             "domain": [
                 "wenku8.net",
                 "wenku8.com",
-                "linux.do"
+                "linux.do",
+                "anyrouter.top"
             ]
         }
     ]
